@@ -1,0 +1,37 @@
+.jumbotron {
+    background-color: #203960;
+    height: 10em;
+}
+
+#logo {
+    height: 6em;
+    
+}
+
+.articles {
+    background-color: beige;
+    height: 4em;
+    border-style: solid;
+    border-color: beige;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+    font: white;
+}
+
+.panel-heading {
+    border-style: solid;
+    border-color: beige;
+    background-color: beige;
+    font: white;
+
+
+}
+
+.panel-body {
+    border-style: solid;
+    border-color: beige;
+    
+}
